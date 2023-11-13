@@ -1,0 +1,1196 @@
+﻿--------------------------------------KILLED BY OTYUGH------------------------------------------------------------
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 8
+Treasure available here -> [RUBY, SAPPHIRE, DIAMOND]
+1 Arrow available here
+
+
+You smell something terrible nearby !!
+
+
+Enter Direction from paths available :[WEST, SOUTH, EAST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+p
+Pick Treasure(T) or Arrow(A)
+a
+1 Arrows Picked
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 8
+Treasure available here -> [RUBY, SAPPHIRE, DIAMOND]
+
+
+You smell something terrible nearby !!
+
+
+Enter Direction from paths available :[WEST, SOUTH, EAST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+s
+Enter direction to shoot -> sdf 
+Enter Distance Between 1 and 5
+3
+Invalid Direction to shoot
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 8
+Treasure available here -> [RUBY, SAPPHIRE, DIAMOND]
+
+
+You smell something terrible nearby !!
+
+
+Enter Direction from paths available :[WEST, SOUTH, EAST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+s
+Enter direction to shoot -> south
+Enter Distance Between 1 and 5
+1
+You hear a great howl in the distance
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 8
+Treasure available here -> [RUBY, SAPPHIRE, DIAMOND]
+
+
+You smell something terrible nearby !!
+
+
+Enter Direction from paths available :[WEST, SOUTH, EAST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+s
+Enter direction to shoot -> south
+Enter Distance Between 1 and 5
+1
+You hear a great howl in the distance
+You killed the otyugh!!! 
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 8
+Treasure available here -> [RUBY, SAPPHIRE, DIAMOND]
+
+
+
+
+Enter Direction from paths available :[WEST, SOUTH, EAST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+m
+Where to ? -> south
+Player moved from: CAVE8 to: TUNNEL13, Direction moved -> SOUTH
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> tunnel 13
+2 Arrow available here
+
+
+
+
+Enter Direction from paths available :[NORTH, EAST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+p
+Pick Treasure(T) or Arrow(A)
+A
+2 Arrows Picked
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> tunnel 13
+
+
+
+
+Enter Direction from paths available :[NORTH, EAST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+m
+Where to ? -> east
+Player moved from: TUNNEL13 to: CAVE14, Direction moved -> EAST
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 14
+Treasure available here -> [DIAMOND, DIAMOND]
+2 Arrow available here
+
+
+
+
+Enter Direction from paths available :[SOUTH, NORTH, WEST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+g
+Invalid try again
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 14
+Treasure available here -> [DIAMOND, DIAMOND]
+2 Arrow available here
+
+
+
+
+Enter Direction from paths available :[SOUTH, NORTH, WEST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+p
+Pick Treasure(T) or Arrow(A)
+a
+2 Arrows Picked
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 14
+Treasure available here -> [DIAMOND, DIAMOND]
+
+
+
+
+Enter Direction from paths available :[SOUTH, NORTH, WEST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+m
+Where to ? -> south
+Player moved from: CAVE14 to: TUNNEL19, Direction moved -> SOUTH
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> tunnel 19
+1 Arrow available here
+
+
+
+
+Enter Direction from paths available :[WEST, NORTH]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+p
+Pick Treasure(T) or Arrow(A)
+a
+1 Arrows Picked
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> tunnel 19
+
+
+
+
+Enter Direction from paths available :[WEST, NORTH]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+m
+Where to ? -> west
+Player moved from: TUNNEL19 to: TUNNEL18, Direction moved -> WEST
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> tunnel 18
+2 Arrow available here
+
+
+You smell something terrible nearby !!
+
+
+Enter Direction from paths available :[EAST, WEST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+s
+Enter direction to shoot -> west
+Enter Distance Between 1 and 5
+1
+Shot an arrow into darkness
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> tunnel 18
+2 Arrow available here
+
+
+You smell something terrible nearby !!
+
+
+Enter Direction from paths available :[EAST, WEST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+m
+Where to ? -> west
+Player moved from: TUNNEL18 to: CAVE17, Direction moved -> WEST
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 17
+Treasure available here -> [DIAMOND]
+2 Arrow available here
+
+
+You smell something terrible nearby !!
+
+
+Enter Direction from paths available :[NORTH, EAST, SOUTH, WEST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+s
+Enter direction to shoot -> north
+Enter Distance Between 1 and 5
+1
+You hear a great howl in the distance
+
+
+----------------------------------------------------------
+----  INFO! ----- 
+Player at -> cave 17
+Treasure available here -> [DIAMOND]
+2 Arrow available here
+
+
+You smell something terrible nearby !!
+
+
+Enter Direction from paths available :[NORTH, EAST, SOUTH, WEST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+m
+Where to ? -> north
+Chomp, chomp, chomp, you are eaten by an Otyugh!
+Better luck next time
+
+
+
+
+----------------------------------------------------------
+Game ended !!! 
+Player stats after exit: Player at Location = 12, Arrows left 5, Collected Treasure = Empty
+
+
+
+
+
+
+
+
+---------------------------------------------WINNING THE GAME---------------------------------------------------
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 14
+Treasure available here -> [RUBY, SAPPHIRE, DIAMOND]
+1 Arrow available here
+
+
+
+
+Enter Direction from paths available :[WEST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+P
+Pick Treasure(T) or Arrow(A)
+T
+Treasure Picked! at -> CAVE14->[RUBY, SAPPHIRE, DIAMOND]
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 14
+1 Arrow available here
+
+
+
+
+Enter Direction from paths available :[WEST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+P
+Pick Treasure(T) or Arrow(A)
+A
+1 Arrows Picked
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 14
+
+
+
+
+Enter Direction from paths available :[WEST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+M
+Where to ? -> WEST
+Player moved from: CAVE14 to: CAVE13, Direction moved -> WEST
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 13
+Treasure available here -> [RUBY]
+2 Arrow available here
+
+
+
+
+Enter Direction from paths available :[EAST, WEST, SOUTH]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+P
+Pick Treasure(T) or Arrow(A)
+A
+2 Arrows Picked
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 13
+Treasure available here -> [RUBY]
+
+
+
+
+Enter Direction from paths available :[EAST, WEST, SOUTH]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+M
+Where to ? -> EAST
+Player moved from: CAVE13 to: CAVE14, Direction moved -> EAST
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 14
+
+
+
+
+Enter Direction from paths available :[WEST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+M
+Where to ? -> EAST
+Invalid move try again
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 14
+
+
+
+
+Enter Direction from paths available :[WEST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+M
+Where to ? -> WEST
+Player moved from: CAVE14 to: CAVE13, Direction moved -> WEST
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 13
+Treasure available here -> [RUBY]
+
+
+
+
+Enter Direction from paths available :[EAST, WEST, SOUTH]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+P
+Pick Treasure(T) or Arrow(A)
+T
+Treasure Picked! at -> CAVE13->[RUBY]
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 13
+
+
+
+
+Enter Direction from paths available :[EAST, WEST, SOUTH]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+M
+Where to ? -> WEST
+Player moved from: CAVE13 to: CAVE12, Direction moved -> WEST
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 12
+Treasure available here -> [SAPPHIRE, SAPPHIRE, RUBY]
+1 Arrow available here
+
+
+You smell something terrible nearby !!
+
+
+Enter Direction from paths available :[WEST, SOUTH, EAST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+P
+Pick Treasure(T) or Arrow(A)
+T
+Treasure Picked! at -> CAVE12->[SAPPHIRE, SAPPHIRE, RUBY]
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 12
+1 Arrow available here
+
+
+You smell something terrible nearby !!
+
+
+Enter Direction from paths available :[WEST, SOUTH, EAST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+P
+Pick Treasure(T) or Arrow(A)
+A
+1 Arrows Picked
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 12
+
+
+You smell something terrible nearby !!
+
+
+Enter Direction from paths available :[WEST, SOUTH, EAST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+S
+Enter direction to shoot -> WEST
+Enter Distance Between 1 and 5
+1
+Shot an arrow into darkness
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 12
+
+
+You smell something terrible nearby !!
+
+
+Enter Direction from paths available :[WEST, SOUTH, EAST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+M
+Where to ? -> WEST
+Player moved from: CAVE12 to: CAVE11, Direction moved -> WEST
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 11
+Treasure available here -> [SAPPHIRE]
+1 Arrow available here
+
+
+You smell something terrible nearby !!
+
+
+Enter Direction from paths available :[EAST, SOUTH, NORTH]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+P
+Pick Treasure(T) or Arrow(A)
+T
+Treasure Picked! at -> CAVE11->[SAPPHIRE]
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 11
+1 Arrow available here
+
+
+You smell something terrible nearby !!
+
+
+Enter Direction from paths available :[EAST, SOUTH, NORTH]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+P
+Pick Treasure(T) or Arrow(A)
+A
+1 Arrows Picked
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 11
+
+
+You smell something terrible nearby !!
+
+
+Enter Direction from paths available :[EAST, SOUTH, NORTH]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+S
+Enter direction to shoot -> NORTH
+Enter Distance Between 1 and 5
+1
+Shot an arrow into darkness
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 11
+
+
+You smell something terrible nearby !!
+
+
+Enter Direction from paths available :[EAST, SOUTH, NORTH]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+M
+Where to ? -> NORTH
+Player moved from: CAVE11 to: CAVE6, Direction moved -> NORTH
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 6
+Treasure available here -> [SAPPHIRE, DIAMOND]
+1 Arrow available here
+
+
+Something is lurking nearby !!
+
+
+Enter Direction from paths available :[EAST, WEST, SOUTH]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+P
+Pick Treasure(T) or Arrow(A)
+A
+1 Arrows Picked
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 6
+Treasure available here -> [SAPPHIRE, DIAMOND]
+
+
+Something is lurking nearby !!
+
+
+Enter Direction from paths available :[EAST, WEST, SOUTH]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+P
+Pick Treasure(T) or Arrow(A)
+T
+Treasure Picked! at -> CAVE6->[SAPPHIRE, DIAMOND]
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 6
+
+
+Something is lurking nearby !!
+
+
+Enter Direction from paths available :[EAST, WEST, SOUTH]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+S
+Enter direction to shoot -> SOUTH
+Enter Distance Between 1 and 5
+2
+You hear a great howl in the distance
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 6
+
+
+Something is lurking nearby !!
+
+
+Enter Direction from paths available :[EAST, WEST, SOUTH]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+S
+Enter direction to shoot -> SOUTH
+Enter Distance Between 1 and 5
+2
+You hear a great howl in the distance
+You killed the otyugh!!! 
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 6
+
+
+
+
+Enter Direction from paths available :[EAST, WEST, SOUTH]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+M
+Where to ? -> EAST
+Player moved from: CAVE6 to: TUNNEL7, Direction moved -> EAST
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> tunnel 7
+2 Arrow available here
+
+
+
+
+Enter Direction from paths available :[WEST, EAST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+P
+Pick Treasure(T) or Arrow(A)
+A
+2 Arrows Picked
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> tunnel 7
+
+
+
+
+Enter Direction from paths available :[WEST, EAST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+M
+Where to ? -> EAST
+Player moved from: TUNNEL7 to: TUNNEL8, Direction moved -> EAST
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> tunnel 8
+2 Arrow available here
+
+
+
+
+Enter Direction from paths available :[WEST, EAST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+P
+Pick Treasure(T) or Arrow(A)
+A
+2 Arrows Picked
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> tunnel 8
+
+
+
+
+Enter Direction from paths available :[WEST, EAST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+M
+Where to ? -> WEST
+Player moved from: TUNNEL8 to: TUNNEL7, Direction moved -> WEST
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> tunnel 7
+
+
+
+
+Enter Direction from paths available :[WEST, EAST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+M
+Where to ? -> WEST
+Player moved from: TUNNEL7 to: CAVE6, Direction moved -> WEST
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> cave 6
+
+
+
+
+Enter Direction from paths available :[EAST, WEST, SOUTH]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+M
+Where to ? -> EAST
+Player moved from: CAVE6 to: TUNNEL7, Direction moved -> EAST
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> tunnel 7
+
+
+
+
+Enter Direction from paths available :[WEST, EAST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+M
+Where to ? -> EAST
+Player moved from: TUNNEL7 to: TUNNEL8, Direction moved -> EAST
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> tunnel 8
+
+
+
+
+Enter Direction from paths available :[WEST, EAST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+M
+Where to ? -> EAST
+Player moved from: TUNNEL8 to: TUNNEL9, Direction moved -> EAST
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> tunnel 9
+1 Arrow available here
+
+
+
+
+Enter Direction from paths available :[NORTH, WEST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+A
+Invalid try again
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> tunnel 9
+1 Arrow available here
+
+
+
+
+Enter Direction from paths available :[NORTH, WEST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+P
+Pick Treasure(T) or Arrow(A)
+A
+1 Arrows Picked
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> tunnel 9
+
+
+
+
+Enter Direction from paths available :[NORTH, WEST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+M
+Where to ? -> NORTH
+Player moved from: TUNNEL9 to: TUNNEL4, Direction moved -> NORTH
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> tunnel 4
+2 Arrow available here
+
+
+
+
+Enter Direction from paths available :[SOUTH, WEST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+M
+Where to ? -> WEST
+Player moved from: TUNNEL4 to: TUNNEL3, Direction moved -> WEST
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> tunnel 3
+2 Arrow available here
+
+
+
+
+Enter Direction from paths available :[WEST, EAST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+P
+Pick Treasure(T) or Arrow(A)
+A
+2 Arrows Picked
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> tunnel 3
+
+
+
+
+Enter Direction from paths available :[WEST, EAST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+M
+Where to ? -> WEST
+Player moved from: TUNNEL3 to: TUNNEL2, Direction moved -> WEST
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> tunnel 2
+2 Arrow available here
+
+
+Something is lurking nearby !!
+
+
+Enter Direction from paths available :[EAST, WEST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+S
+Enter direction to shoot -> WEST
+Enter Distance Between 1 and 5
+1
+You hear a great howl in the distance
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> tunnel 2
+2 Arrow available here
+
+
+Something is lurking nearby !!
+
+
+Enter Direction from paths available :[EAST, WEST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+M
+Where to ? -> GG
+Invalid move try again
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> tunnel 2
+2 Arrow available here
+
+
+Something is lurking nearby !!
+
+
+Enter Direction from paths available :[EAST, WEST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+S
+Enter direction to shoot -> WEST
+Enter Distance Between 1 and 5
+1
+You hear a great howl in the distance
+You killed the otyugh!!! 
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> tunnel 2
+2 Arrow available here
+
+
+
+
+Enter Direction from paths available :[EAST, WEST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+M
+Where to ? -> WEST
+Player moved from: TUNNEL2 to: TUNNEL1, Direction moved -> WEST
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> tunnel 1
+2 Arrow available here
+
+
+
+
+Enter Direction from paths available :[EAST, WEST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+P
+Pick Treasure(T) or Arrow(A)
+A
+2 Arrows Picked
+
+
+
+
+----------------------------------------------------------
+
+
+----  INFO! ----- 
+Player at -> tunnel 1
+
+
+
+
+Enter Direction from paths available :[EAST, WEST]
+------------------
+Move(M), Pickup(P), Shoot(S), PlayerInfo(I), Quit(Q)
+M
+Where to ? -> WEST
+Player moved from: TUNNEL1 to: CAVE0, Direction moved -> WEST
+
+
+----- Reached Exit ----- 
+
+
+He survived to see another day!!!
+
+
+----------------------------------------------------------
+Game ended !!! 
+Player stats after exit: Player at Location = 0, Arrows left 12, Collected Treasure = Diamond: 2, Ruby: 3, Sapphire: 5
