@@ -1,5 +1,5 @@
 
-# Project 5 - GRAPHICAL ADVENTURE GAME 
+# Project - GRAPHICAL ADVENTURE GAME 
 ### Overview
 
 The world for our game consists of a dungeon, a network of tunnels and caves that are interconnected so that a player can explore the entire world created by traveling from cave to cave through the tunnels that connect them. If lucky the player can find treasures like Diamond, Ruby and Sapphires in some or all of the caves present arrows all around the dungeon with the same frequncy as the treasure.Also there are monsters lurking around the caves in the dungeon which the player has to kill with the arrows he has and reach the end location to win.
